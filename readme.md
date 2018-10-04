@@ -2,4 +2,4 @@
 
 Application created for learning purpose
 
-!["logo"](tags-input-screen.png)
+!["preview"](tags-input-preview.png)
